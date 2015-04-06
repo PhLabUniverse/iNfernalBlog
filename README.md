@@ -4,7 +4,7 @@ A straight forward AJAX driven theme for [Ghost](http://github.com/tryghost/ghos
 
 **[Live Version](http://blog.infernalsoft.co.uk/)**
 
-**[Download Ghostwriter](https://github.com/roryg/ghostwriter/archive/master.zip)**
+**[Download iNfernalBlog](https://github.com/iNfernalSoft/iNfernalBlog/archive/master.zip)**
 
 ### Features
 
