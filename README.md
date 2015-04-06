@@ -27,4 +27,4 @@ You get my point, right?
 
 ### Screenshot
 
-![Ghostwriter home page](https://github.com/roryg/ghostwriter/blob/master/screenshot.png?raw=true)
+![iNfernalBlog Home Page](http://i59.tinypic.com/fvw6s5.jpg?raw=true)
